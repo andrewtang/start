@@ -6,3 +6,5 @@
 - Fixed dynamic route warning by adding force-dynamic config to root page
 - Added Storybook with Button component and stories, updated .cursorrules with Storybook guidelines
 - Captured screenshot of Button component stories in Storybook
+- Scaffolded the landing page with all main sections as components, following Double Finance's structure and using Tailwind.
+- Added error, loading, and not-found components to the root app directory to fix Next.js required error component warnings.
